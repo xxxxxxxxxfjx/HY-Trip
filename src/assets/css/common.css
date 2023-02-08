@@ -1,0 +1,18 @@
+:root{
+    --primary-color:#ff9854
+}
+body{
+    font-size: 14px;
+}
+
+.top-page{
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff;
+    overflow-y: auto;
+    z-index: 9;
+}
